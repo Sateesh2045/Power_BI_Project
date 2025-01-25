@@ -53,3 +53,4 @@ Data Cleaning and Transformation - Scripts for data cleansing and formatting.
 Data Modeling - Power Query transformations and relationship-building.
 DAX Calculations - DAX code for creating calculated columns and measures.
 Reports - Power BI files with final reports and dashboards.
+Checkout Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiYTk0YmE0NzQtZGVhNS00ZmVmLThiNGYtNmJjYjY0OTY3NDEzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ce08ccbc45d03687a7b9
